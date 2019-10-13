@@ -1,0 +1,12 @@
+TASK description 
+
+Given the ​Olympic History​ dataset on Kaggle:
+1. Read the data using any method of your choice.
+2. Analyse the data and produce statistics and insights that you consider useful or
+noteworthy. It is up to you to choose features, statistics and methods for your
+analysis.
+3. Create a visual report of your analysis.
+You are free to use you favourite tools, such as Jupyter Notebooks, or Python scripts to generate visualisations that are subsequently knitted into HTML or LaTeX.
+There is no right or wrong answer in this task, and your assessment does not have to be very complex, but we expect
+1. Meaningful, interesting, and insightful analysis
+2. Good quality, well organised code.
